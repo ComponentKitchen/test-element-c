@@ -2,6 +2,10 @@
   "id": 17876004,
   "name": "test-element-c",
   "full_name": "ComponentKitchen/test-element-c",
+  "meta": {
+    "status": "200 OK",
+    "etag": "\"test-element-c-info-etag\""
+  },
   "owner": {
     "login": "ComponentKitchen",
     "id": 6549547,
